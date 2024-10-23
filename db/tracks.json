@@ -18,7 +18,7 @@
     "is_playable": true,
     "linked_from": null,
     "restrictions": null,
-    "popularity": 54,
+    "popularity": 76,
     "preview_url": null,
     "track_number": null,
     "type": "track",
@@ -44,7 +44,7 @@
     "is_playable": true,
     "linked_from": null,
     "restrictions": null,
-    "popularity": 54,
+    "popularity": 84,
     "preview_url": null,
     "track_number": null,
     "type": "track",
@@ -57,7 +57,7 @@
     "artists": ["The Beatles"],
     "creators": null,
     "duration_ms": 181000,
-    "explicit": true,
+    "explicit": false,
     "external_ids": {
       "isrc": null,
       "ean": null,
@@ -70,7 +70,137 @@
     "is_playable": true,
     "linked_from": null,
     "restrictions": null,
-    "popularity": 54,
+    "popularity": 30,
+    "preview_url": null,
+    "track_number": null,
+    "type": "track",
+    "uri": "melodia:internal.unset.openid",
+    "is_local": false
+  },
+  {
+    "id": 85632822541610,
+    "name": "Voyage Voyage",
+    "artists": ["Angele"],
+    "creators": ["Xad"],
+    "duration_ms": 277000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": null,
+      "ean": null,
+      "upc": null
+    },
+    "external_urls": {
+      "melodia": null
+    },
+    "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/85632822541610.mp3",
+    "is_playable": true,
+    "linked_from": null,
+    "restrictions": null,
+    "popularity": 60,
+    "preview_url": null,
+    "track_number": null,
+    "type": "track",
+    "uri": "melodia:internal.unset.openid",
+    "is_local": false
+  },
+  {
+    "id": 85632822541610,
+    "name": "Voyage Voyage",
+    "artists": ["Angele"],
+    "creators": ["Xad"],
+    "duration_ms": 277000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": null,
+      "ean": null,
+      "upc": null
+    },
+    "external_urls": {
+      "melodia": null
+    },
+    "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/85632822541610.mp3",
+    "is_playable": false,
+    "linked_from": null,
+    "restrictions": null,
+    "popularity": 60,
+    "preview_url": null,
+    "track_number": null,
+    "type": "track",
+    "uri": "melodia:internal.unset.openid",
+    "is_local": false
+  },
+  {
+    "id": 10683406241209,
+    "name": "Tout les soirs",
+    "artists": ["Maes", "Jul"],
+    "creators": ["MAES {IA}"],
+    "duration_ms": 182000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": null,
+      "ean": null,
+      "upc": null
+    },
+    "external_urls": {
+      "melodia": null
+    },
+    "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/10683406241209.mp3",
+    "is_playable": true,
+    "linked_from": null,
+    "restrictions": null,
+    "popularity": 60,
+    "preview_url": null,
+    "track_number": null,
+    "type": "track",
+    "uri": "melodia:internal.unset.openid",
+    "is_local": false
+  },
+  {
+    "id": 9005462520665,
+    "name": "FuFu",
+    "artists": ["Naps"],
+    "creators": ["CJK"],
+    "duration_ms": 144000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": null,
+      "ean": null,
+      "upc": null
+    },
+    "external_urls": {
+      "melodia": null
+    },
+    "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/9005462520665.mp3",
+    "is_playable": true,
+    "linked_from": null,
+    "restrictions": null,
+    "popularity": 80,
+    "preview_url": null,
+    "track_number": null,
+    "type": "track",
+    "uri": "melodia:internal.unset.openid",
+    "is_local": false
+  },
+  {
+    "id": 18362096814186,
+    "name": "Picasso",
+    "artists": ["SCH", "Ninho"],
+    "creators": ["IA MASTER"],
+    "duration_ms": 172000,
+    "explicit": true,
+    "external_ids": {
+      "isrc": null,
+      "ean": null,
+      "upc": null
+    },
+    "external_urls": {
+      "melodia": null
+    },
+    "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/18362096814186.mp3",
+    "is_playable": true,
+    "linked_from": null,
+    "restrictions": null,
+    "popularity": 63,
     "preview_url": null,
     "track_number": null,
     "type": "track",
