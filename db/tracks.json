@@ -1,0 +1,28 @@
+[
+  {
+    id: 2054528229650,
+    name: 'Bâtiment',
+    artists: ['Tiakola', 'Maes'],
+    creators:
+    duration_ms: 140000,
+    explicit: true,
+    external_ids: {
+        isrc: null,
+        ean: null,
+        upc: null
+    },
+    external_urls: {
+        melodia: nul,
+    };
+    href: 'https://github.com/designo-group/music-db/raw/refs/heads/main/blob/2054528229650.mp3'
+    is_playable: true,
+    linked_from: null,
+    restrictions: null,
+    popularity: 54,
+    preview_url: null,
+    track_number: null,
+    type: 'track',
+    uri: 'melodia:internal.unset.openid',
+    is_local: false
+  }
+]
