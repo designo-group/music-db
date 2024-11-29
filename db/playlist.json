@@ -1,0 +1,476 @@
+{
+  "id": "RSajwxvddlRPU4tlquzOp",
+  "name": "AI Essentials",
+  "description": "Browse the new trending AI musics.",
+  "owner": {
+    "id": "0000000-00000-00000000",
+    "display_name": "Melødia",
+    "images": [
+        {
+            "url": "https://github.com/designo-group/music-db/raw/refs/heads/main/assets/0000000-00000-00000000.png"
+        }
+    ],
+    "followers": {
+        "href": null,
+        "total": 125000
+    },
+    "href": null,
+    "type": "user",
+    "uri": null
+  },
+  "images": [
+    {
+        "url": "https://github.com/designo-group/music-db/raw/refs/heads/main/assets/RSajwxvddlRPU4tlquzOp.png"
+    }
+  ],
+  "genre": "rap-fr",
+  "public": true,
+  "collaborative": false,
+  "followers": {
+      "href": null,
+      "total": 256003
+  },
+  "tracks": {
+    "items": [
+      {
+        "id": "2054528229650",
+        "title": "Bâtiment",
+        "artwork": {
+            "url": "https://github.com/designo-group/music-db/raw/refs/heads/main/assets/2054528229650.png",
+            "isStatic": true
+        },
+        "artists": [
+            {
+              "id": "opvuvXTMyNMmjI4d-hEVe",
+              "name": "Tiakola",
+              "images": null,
+              "genres": [
+                  "rap-fr"
+              ],
+              "followers": {
+                  "href": null,
+                  "total": 8095
+              },
+              "popularity": 83,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            },
+            {
+              "id": "69sPu6vS87irPBw1_D1DR",
+              "name": "Maes",
+              "images": null,
+              "genres": [
+                  "rap-fr"
+              ],
+              "followers": {
+                  "href": null,
+                  "total": 2095
+              },
+              "popularity": 74,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            }
+        ],
+        "creators": [
+            {
+                "id": "aJZXkpfP-VrshqpFVAe4E",
+                "name": "IA Master",
+                "images": null,
+                "genres": [
+                    "rap-fr"
+                ],
+                "followers": {
+                    "href": null,
+                    "total": 3095
+                },
+                "popularity": 78,
+                "href": null,
+                "type": "creator",
+                "uri": null
+            }
+        ],
+        "duration_ms": 140000,
+        "explicit": true,
+        "popularity": 70,
+        "is_local": false,
+        "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/2054528229650.mp3",
+        "genre": "rap-fr",
+        "license": null,
+        "playback_count": 30000,
+        "favourite_count": 1200,
+        "user_playback_count": 3,
+        "isFavourite": false,
+        "release_date": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+        },
+        "external_ids": {
+            "ean": "ean",
+            "isrc": "isrc",
+            "upc": "upc"
+        },
+        "preview_url": null,
+        "available_markets": [
+            "EU", "US", "UK", "CH"
+        ],
+        "restrictions": null,
+        "type": "track",
+        "uri": "melodia:internal.unset.openid"
+      },
+      {
+        "id": "8563282540490",
+        "title": "Saiyan",
+        "artwork": {
+            "url": "https://github.com/designo-group/music-db/raw/refs/heads/main/assets/8563282540490.png",
+            "isStatic": true
+        },
+        "artists": [
+            {
+              "id": "opvdyienTMyNMmjId-Udtwe",
+              "name": "Gazo",
+              "images": null,
+              "genres": [
+                  "rap-fr"
+              ],
+              "followers": {
+                  "href": null,
+                  "total": 8095
+              },
+              "popularity": 83,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            },
+            {
+              "id": "69sPu84S8dj8rPBw1_OEUhR",
+              "name": "Angele",
+              "images": null,
+              "genres": null,
+              "followers": {
+                  "href": null,
+                  "total": 2095
+              },
+              "popularity": 74,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            }
+        ],
+        "creators": [
+            {
+                "id": "aJZXkpfP-VrshqpFVAe4E",
+                "name": "IA Master",
+                "images": null,
+                "genres": [
+                    "rap-fr"
+                ],
+                "followers": {
+                    "href": null,
+                    "total": 3095
+                },
+                "popularity": 78,
+                "href": null,
+                "type": "creator",
+                "uri": null
+            }
+        ],
+        "duration_ms": 137000,
+        "explicit": true,
+        "popularity": 84,
+        "is_local": false,
+        "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/8563282540490.mp3",
+        "genre": "rap-fr",
+        "license": null,
+        "playback_count": 970000,
+        "favourite_count": 35400,
+        "user_playback_count": 1,
+        "isFavourite": false,
+        "release_date": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+        },
+        "external_ids": {
+            "ean": "ean",
+            "isrc": "isrc",
+            "upc": "upc"
+        },
+        "preview_url": null,
+        "available_markets": [
+            "EU", "US", "UK", "CH"
+        ],
+        "restrictions": null,
+        "type": "track",
+        "uri": "melodia:internal.unset.openid"
+      },
+      {
+        "id": "10683406241209",
+        "title": "Tout les soirs",
+        "artwork": {
+            "url": "https://github.com/designo-group/music-db/raw/refs/heads/main/assets/10683406241209.png",
+            "isStatic": true
+        },
+        "artists": [
+            {
+              "id": "69sPu6vS87irPBw1_D1DR",
+              "name": "Maes",
+              "images": null,
+              "genres": [
+                  "rap-fr"
+              ],
+              "followers": {
+                  "href": null,
+                  "total": 2095
+              },
+              "popularity": 74,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            },
+            {
+              "id": "ieudywUUWOdnshw-SUUd",
+              "name": "Jul",
+              "images": null,
+              "genres": [
+                  "rap-fr"
+              ],
+              "followers": {
+                  "href": null,
+                  "total": 10095
+              },
+              "popularity": 87,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            }
+        ],
+        "creators": [
+            {
+                "id": "eideieiYWY-usDUUEnaisngS",
+                "name": "MAES {IA}",
+                "images": null,
+                "genres": [
+                    "rap-fr"
+                ],
+                "followers": {
+                    "href": null,
+                    "total": 3095
+                },
+                "popularity": 78,
+                "href": null,
+                "type": "creator",
+                "uri": null
+            }
+        ],
+        "duration_ms": 182000,
+        "explicit": true,
+        "popularity": 70,
+        "is_local": false,
+        "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/10683406241209.mp3",
+        "genre": "rap-fr",
+        "license": null,
+        "playback_count": 30000,
+        "favourite_count": 1200,
+        "user_playback_count": 3,
+        "isFavourite": false,
+        "release_date": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+        },
+        "external_ids": {
+            "ean": "ean",
+            "isrc": "isrc",
+            "upc": "upc"
+        },
+        "preview_url": null,
+        "available_markets": [
+            "EU", "US", "UK", "CH"
+        ],
+        "restrictions": null,
+        "type": "track",
+        "uri": "melodia:internal.unset.openid"
+      },
+      {
+        "id": "9005462520665",
+        "title": "FuFu",
+        "artwork": {
+            "url": "https://github.com/designo-group/music-db/raw/refs/heads/main/assets/9005462520665.png",
+            "isStatic": true
+        },
+        "artists": [
+            {
+              "id": "dducbwoSYWYoo-Se7Sy",
+              "name": "Naps",
+              "images": null,
+              "genres": [
+                  "rap-fr"
+              ],
+              "followers": {
+                  "href": null,
+                  "total": 10095
+              },
+              "popularity": 77,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            }
+        ],
+        "creators": [
+            {
+                "id": "idueuySTWYHWn_3SOD4IW",
+                "name": "CJK",
+                "images": null,
+                "genres": [
+                    "rap-fr"
+                ],
+                "followers": {
+                    "href": null,
+                    "total": 3095
+                },
+                "popularity": 78,
+                "href": null,
+                "type": "creator",
+                "uri": null
+            }
+        ],
+        "duration_ms": 144000,
+        "explicit": true,
+        "popularity": 80,
+        "is_local": false,
+        "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/9005462520665.mp3",
+        "genre": "rap-fr",
+        "license": null,
+        "playback_count": 30000,
+        "favourite_count": 1200,
+        "user_playback_count": 3,
+        "isFavourite": false,
+        "release_date": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+        },
+        "external_ids": {
+            "ean": "ean",
+            "isrc": "isrc",
+            "upc": "upc"
+        },
+        "preview_url": null,
+        "available_markets": [
+            "EU", "US", "UK", "CH"
+        ],
+        "restrictions": null,
+        "type": "track",
+        "uri": "melodia:internal.unset.openid"
+      },
+      {
+        "id": "18362096814186",
+        "title": "Picasso",
+        "artwork": {
+            "url": "https://github.com/designo-group/music-db/raw/refs/heads/main/assets/18362096814186.png",
+            "isStatic": true
+        },
+        "artists": [
+            {
+              "id": "SINWIDdiducdw_Ee3du",
+              "name": "SCH",
+              "images": null,
+              "genres": [
+                  "rap-fr"
+              ],
+              "followers": {
+                  "href": null,
+                  "total": 8095
+              },
+              "popularity": 83,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            },
+            {
+              "id": "dusSEOwsIIOW99_DIW8",
+              "name": "Ninho",
+              "images": null,
+              "genres": [
+                  "rap-fr"
+              ],
+              "followers": {
+                  "href": null,
+                  "total": 2095
+              },
+              "popularity": 74,
+              "href": null,
+              "type": "artist",
+              "uri": null
+            }
+        ],
+        "creators": [
+            {
+                "id": "aJZXkpfP-VrshqpFVAe4E",
+                "name": "IA Master",
+                "images": null,
+                "genres": [
+                    "rap-fr"
+                ],
+                "followers": {
+                    "href": null,
+                    "total": 3095
+                },
+                "popularity": 78,
+                "href": null,
+                "type": "creator",
+                "uri": null
+            }
+        ],
+        "duration_ms": 172000,
+        "explicit": true,
+        "popularity": 63,
+        "is_local": false,
+        "href": "https://github.com/designo-group/music-db/raw/refs/heads/main/blob/18362096814186.mp3",
+        "genre": "rap-fr",
+        "license": null,
+        "playback_count": 30000,
+        "favourite_count": 1200,
+        "user_playback_count": 3,
+        "isFavourite": false,
+        "release_date": {
+            "day": 1,
+            "month": 1,
+            "year": 2024
+        },
+        "external_ids": {
+            "ean": "ean",
+            "isrc": "isrc",
+            "upc": "upc"
+        },
+        "preview_url": null,
+        "available_markets": [
+            "EU", "US", "UK", "CH"
+        ],
+        "restrictions": null,
+        "type": "track",
+        "uri": "melodia:internal.unset.openid"
+      }
+    ],
+    "href": null,
+    "limit": 20,
+    "next": null,
+    "offset": null,
+    "previous": null,
+    "total": null
+  },
+  "duration_ms": null,
+  "createdAt": "2024-11-29T10:11:47.185Z",
+  "lastModified": null,
+  "tags": [
+      "AI", "trending", "rap-fr"
+  ],
+  "downloadable": true,
+  "license": null,
+  "href": null,
+  "type": "Playlist",
+  "uri": null
+}
